@@ -7,3 +7,5 @@ files/
 
 # deploy notebook
 deploy.ipynb
+
+.env
