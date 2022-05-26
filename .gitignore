@@ -4,3 +4,6 @@
 
 # temp dir
 files/
+
+# deploy notebook
+deploy.ipynb
